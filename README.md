@@ -1,2 +1,2 @@
 # angular_senac
-Revisão SAP angular
+Revisão SPA angular
